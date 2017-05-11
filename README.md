@@ -30,4 +30,5 @@ Just copy the code inside the :root tag and you can use it!
     --var-silver: #bdc3c7;
     --var-concrete: #95a5a6;
     --var-asbestos: #7f8c8d;
-}```
+}
+```
